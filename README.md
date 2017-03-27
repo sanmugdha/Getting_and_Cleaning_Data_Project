@@ -9,7 +9,7 @@ This repository holds the R script for the final project for the Getting and Cle
 
 * Note that this script assumes the data for the assignment has been downloaded is in your current working direcory, and names of files have not been altered.
 
-*dplyr package must be installed
+* dplyr package must be installed
 
 This repo also contains Codebook.md which describes the variables and the data.
 
