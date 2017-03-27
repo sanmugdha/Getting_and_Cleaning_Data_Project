@@ -8,6 +8,7 @@ This repository holds the R script for the final project for the Getting and Cle
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 * Note that this script assumes the data for the assignment has been downloaded is in your current working direcory, and names of files have not been altered.
+*dplyr package must be installed
 
 This repo also contains Codebook.md which describes the variables and the data.
 
