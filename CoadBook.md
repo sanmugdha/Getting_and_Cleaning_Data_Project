@@ -1,4 +1,4 @@
-**Code Book**
+##Code Book
 
 **Variables**
 The variables that the tidy data set contains are the mean of each of following for each subject and activity:
